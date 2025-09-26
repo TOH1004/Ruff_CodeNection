@@ -43,8 +43,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# Secrets
-*.json
-backend/ruff-472904-37794cee8065.json
-backend/functions/service-account.json
