@@ -1,0 +1,12 @@
+{
+  "name": "backend-ruff",
+  "version": "1.0.0",
+  "main": "signaling-server.js",
+  "scripts": {
+    "start": "node signaling-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  },
+  "description": "Signaling server for CodeNection_Ruff"
+}

@@ -1,0 +1,5 @@
+node_modules/
+*.local
+.env*
+grant-admin-once.js
+service-account.json
