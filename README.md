@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-# Google drive link: (if can't access in github, can access in google drive)
-https://drive.google.com/drive/folders/1R6QwF6w_NQpRM2Eo5T9ayz0FZ_ccGEdG?usp=drive_link
+# apk can be downloaded here using google drive
+https://drive.google.com/file/d/19DiC33V4wjLwPb6O6mrf8ii1vX4arJ7U/view?usp=sharing
 
 # FrontEnd (The ruff folder in this repo)
 https://github.com/TOH1004/Ruff_frontend.git
@@ -101,3 +101,4 @@ Who sees my Status posts?
 Only the audience you choose: Public or Trusted circle.
 What if I uninstall and reinstall?
 You’ll need to sign in again and re■grant permissions. History is restored if your account is the same.
+
