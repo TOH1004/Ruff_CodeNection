@@ -1,4 +1,4 @@
-#Feel free to explore our frontend here: 
+# Feel free to explore our frontend here: https://github.com/TOH1004/Ruff_frontend
 # Ruff 🐾 – Campus Safety Companion 🐶
 
 Ruff is a campus safety application designed to protect students through **friend accompaniment, AI support, and a smart SOS system**. <br>
