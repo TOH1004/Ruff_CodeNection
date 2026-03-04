@@ -1,4 +1,4 @@
-# Feel free to explore our frontend here: https://github.com/TOH1004/Ruff_frontend
+# Feel free to explore our frontend here: [Frontend](https://github.com/TOH1004/Ruff_frontend)
 
 # Ruff 🐾 – Campus Safety Companion 🐶
 
